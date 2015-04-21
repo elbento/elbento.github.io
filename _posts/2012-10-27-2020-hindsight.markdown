@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: 20/20 Hindsight
+author:
+  display_name: elbento
+  login: admin
+  email: fortuna@micronode.com
+  url: ''
+author_login: admin
+author_email: fortuna@micronode.com
+wordpress_id: 35
+wordpress_url: http://elbento.com/?p=35
+date: '2012-10-27 00:10:59 +1100'
+date_gmt: '2012-10-26 13:10:59 +1100'
+categories:
+- Dystopia
+tags:
+- Dystopia
+comments: []
+---
+
+What is the role of government? Should their priority be the economy or a vision for the future? There seems to be little focus on vision from anywhere in Australian politics right now, and the neglect is starting to show. Figures like the unemployment rate are constantly bandied about as a sign of economic health, yet at the same time an increasing number of jobs are being off-shored. In fact many of the largest Australian companies - those deemed "too big to fail" - are at the heart of this race to the bottom in a bid to maximise profits. So what is the long-term strategy? For organisations is it a systematic approach to reducing the median wage for knowledge workers? It would seem so. Obviously not every job can be sent to India, but the lure of paying wages as little as one tenth that of the local wage is very tempting. And of what of those jobs that can't possibly be off-shored, even with the wildest imagination? Well you can always outsource to a global company with a large employee base in the developing world. Sure these companies will have a local cosmetic presence, but the bulk of their workforce is also earning as little as one tenth the local wage. And what does a global company like this do to service the needs of local clients? Import staff from their overseas workforce. Staff used to earning as little as one tenth the local wage, and willing to work in Australia for one fifth the local wage. But shouldn't Australia's work visas protect against this kind of economic sabotage? Probably, but I guess someone has discovered how to work the system.
+
+So what does it mean for government? Well they look at the record profits made each year by these large Australian companies and tell everyone the economy is strong. The economy is growing, because everyone knows that **profit = growth** right? Well actually not necessarily. There is certainly profit to be made from reducing the median wage of local knowledge workers, but did anything grow? Isn't this kind of short-term profit grab actually destabilising the economy, by reducing the quality of our knowledge workers (anyone that denies this is ignoring the fundamental rule: you get what you pay for)? Contrary to accountants' belief knowledge is not a commodity that you can put a price on. You cannot quantify an ability to think, and you cannot assume equality across a room full of thinkers. But you can assume that a culture based on thinking and autonomy like Australia will produce better thinkers than one ruled by authority and hierarchy. In such a society you will find people good at doing what they are told, which is fine if you can always tell someone exactly what to do. But you can't. Don't pretend you can, you just look silly. You need autonomous individuals, in all kinds of jobs.
+
+So where does the government stand on this issue? Do they even know it is happening? Probably, but they likely don't care. Politicians, economists and accountants all have faith in the capitalist market. The belief that capitalism will right all wrongs, and heal any anomalies  that emerge in course are based on a brief view of the past. We study capitalism as if it was always they way of the world, yet we dare not consider that perhaps it has a finite lifespan. Market forces will continue to dominate more aspects of our lives, as the crafty bean counters find ways to squeeze a few more dollars from their market position. In the past we had no issue as these dollars were flowing back into our hands by way of employment, but now they have found a way to squeeze the dollars from our pockets, to drive down the median wage and report bumper earnings for their shareholders. Which will make them happy, at least in the short term. Which is all anyone wants now right? Short term happiness. Government, shareholders, and us. Who cares about vision? We are all happy right? At least until we are not. Only then might we consider, albeit briefly, the true cost of a lack of vision for the future.
