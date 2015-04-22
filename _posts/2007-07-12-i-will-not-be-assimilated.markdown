@@ -1,5 +1,5 @@
 ---
-layout: post_page
+layout: post
 status: publish
 published: true
 title: I will not be assimilated
