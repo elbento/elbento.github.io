@@ -26,6 +26,12 @@ layout: default
 							<a rel="next" style="float:right" class="a-hover"href="{{ page.next.url }}">{{ page.next.title }} <i class=" icon-double-angle-right"></i></a>
 					{% endif %}
 				</section>
+				{% if site.disqus %}
+				<footer>
+					<p><a href="#" id="showComments">Comments</a></p>
+					<div id="disqus_thread"></div>
+				</footer>
+				{% endif %}
 			</article>
 		</div>
 	</section>
