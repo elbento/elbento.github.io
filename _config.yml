@@ -7,3 +7,7 @@ exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scs
 
 ##define this for disqus comment support
 disqus: elbento
+
+##set this to enable google analytics
+ga_id: UA-402774-5
+ga_domain: elbento.com
