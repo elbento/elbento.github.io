@@ -4,8 +4,8 @@
 
 
 document.addEventListener("DOMContentLoaded", function(event) {
-/*
     var hidden = true;
+/*
     var menu = document.querySelector(".main-nav");
     var opener = document.querySelector(".opener");
     opener.addEventListener("click", function(e){
