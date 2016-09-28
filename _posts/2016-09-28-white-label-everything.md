@@ -20,4 +20,8 @@ magically solve their revenue concerns. The changes required for these organisat
 think beyond the the traditional revenue raiser of consumer advertising.
 
 Media organisations offer a wealth of expertise and services required to maintain the highest levels of journalism. They must capitalise on
-this wealth by providing their services to the new wave of media companies in a form of "white-label" journalism.
+this wealth by providing their services to the new wave of media companies in a form of "white-label" journalism. Unfortunately many of these
+organisations see new media companies as a direct competitor and are jettisoning their most valuable assets in an attempt to compete in the
+new media space. The tragedy is the loss of journalism quality and integrity that hopefully will be regained once these old media
+organisations realise their mistakes.
+
