@@ -2,6 +2,7 @@
 bg: white
 color: black
 style: center
+anchor: #1
 status: publish
 published: true
 title: I will not be assimilated
