@@ -5,6 +5,7 @@ style: center
 status: publish
 anchor: '#13'
 published: true
+fa-icon: fa-comment
 title: "White label everything!"
 categories:
 - Uncategorized

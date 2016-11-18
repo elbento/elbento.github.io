@@ -5,6 +5,7 @@ style: center
 anchor: '#3'
 status: publish
 published: true
+fa-icon: fa-comment
 title: "I'm Just Doing My Job"
 author:
   display_name: elbento

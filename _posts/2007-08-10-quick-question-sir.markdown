@@ -5,6 +5,7 @@ style: center
 anchor: '#4'
 status: publish
 published: true
+fa-icon: fa-comment
 title: "Quick question, Sir"
 author:
   display_name: elbento

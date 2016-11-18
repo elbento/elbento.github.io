@@ -5,6 +5,7 @@ style: center
 status: publish
 anchor: '#11'
 published: true
+fa-icon: fa-comment
 title: "Advance Australia Where?"
 author:
   display_name: elbento

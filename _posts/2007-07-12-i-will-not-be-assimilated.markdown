@@ -5,6 +5,7 @@ style: center
 anchor: '#1'
 status: publish
 published: true
+fa-icon: fa-comment
 title: "I will not be assimilated"
 author:
   display_name: elbento

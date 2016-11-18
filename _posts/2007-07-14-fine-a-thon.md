@@ -5,6 +5,7 @@ style: center
 anchor: '#2'
 status: publish
 published: true
+fa-icon: fa-comment
 title: "Fine-a-thon"
 author:
   display_name: elbento
