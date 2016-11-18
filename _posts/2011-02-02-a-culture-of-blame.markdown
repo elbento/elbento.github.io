@@ -5,7 +5,7 @@ style: center
 anchor: '#8'
 status: publish
 published: true
-fa-icon: fa-comment
+fa-icon: comment
 title: "A Culture Of Blame"
 author:
   display_name: elbento

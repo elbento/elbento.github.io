@@ -5,7 +5,7 @@ style: center
 anchor: '#10'
 status: publish
 published: true
-fa-icon: fa-comment
+fa-icon: comment
 title: "20/20 Hindsight"
 author:
   display_name: elbento

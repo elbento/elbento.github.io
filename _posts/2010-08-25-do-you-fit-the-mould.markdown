@@ -5,7 +5,7 @@ style: center
 anchor: '#7'
 status: publish
 published: true
-fa-icon: fa-comment
+fa-icon: comment
 title: "Do you fit the mould?"
 author:
   display_name: elbento

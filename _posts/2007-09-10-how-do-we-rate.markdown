@@ -5,7 +5,7 @@ style: center
 anchor: '#5'
 status: publish
 published: true
-fa-icon: fa-comment
+fa-icon: comment
 title: "How Do We Rate?"
 author:
   display_name: elbento

@@ -5,7 +5,7 @@ style: center
 anchor: '#6'
 status: publish
 published: true
-fa-icon: fa-comment
+fa-icon: comment
 title: "Duplicity Rules"
 author:
   display_name: elbento

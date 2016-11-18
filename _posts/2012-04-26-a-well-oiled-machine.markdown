@@ -5,7 +5,7 @@ style: center
 anchor: '#9'
 status: publish
 published: true
-fa-icon: fa-comment
+fa-icon: comment
 title: "A Well-Oiled Machine"
 author:
   display_name: elbento
