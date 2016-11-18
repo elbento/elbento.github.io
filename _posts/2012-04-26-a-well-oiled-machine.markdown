@@ -5,7 +5,7 @@ style: center
 anchor: '#9'
 status: publish
 published: true
-title: A Well-Oiled Machine
+title: "A Well-Oiled Machine"
 author:
   display_name: elbento
   login: admin

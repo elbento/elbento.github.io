@@ -5,7 +5,7 @@ style: center
 anchor: '#4'
 status: publish
 published: true
-title: Quick question, Sir
+title: "Quick question, Sir"
 author:
   display_name: elbento
   login: admin

@@ -5,7 +5,7 @@ style: center
 anchor: '#12'
 status: publish
 published: true
-title: Cannot see the trees for the forest
+title: "Cannot see the trees for the forest"
 author:
   display_name: elbento
   login: admin

@@ -5,7 +5,7 @@ style: center
 anchor: '#8'
 status: publish
 published: true
-title: A Culture Of Blame
+title: "A Culture Of Blame"
 author:
   display_name: elbento
   login: admin

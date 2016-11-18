@@ -5,7 +5,7 @@ style: center
 anchor: '#2'
 status: publish
 published: true
-title: Fine-a-thon
+title: "Fine-a-thon"
 author:
   display_name: elbento
   login: admin

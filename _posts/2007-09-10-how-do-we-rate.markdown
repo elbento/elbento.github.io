@@ -5,7 +5,7 @@ style: center
 anchor: '#5'
 status: publish
 published: true
-title: How Do We Rate?
+title: "How Do We Rate?"
 author:
   display_name: elbento
   login: admin

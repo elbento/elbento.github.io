@@ -5,7 +5,7 @@ style: center
 status: publish
 anchor: '#13'
 published: true
-title: White label everything!
+title: "White label everything!"
 categories:
 - Uncategorized
 tags: []

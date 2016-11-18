@@ -5,7 +5,7 @@ style: center
 anchor: '#3'
 status: publish
 published: true
-title: I'm Just Doing My Job
+title: "I'm Just Doing My Job"
 author:
   display_name: elbento
   login: admin

@@ -5,7 +5,7 @@ style: center
 anchor: '#6'
 status: publish
 published: true
-title: Duplicity Rules
+title: "Duplicity Rules"
 author:
   display_name: elbento
   login: admin

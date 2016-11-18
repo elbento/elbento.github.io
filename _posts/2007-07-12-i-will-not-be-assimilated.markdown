@@ -5,7 +5,7 @@ style: center
 anchor: '#1'
 status: publish
 published: true
-title: I will not be assimilated
+title: "I will not be assimilated"
 author:
   display_name: elbento
   login: admin

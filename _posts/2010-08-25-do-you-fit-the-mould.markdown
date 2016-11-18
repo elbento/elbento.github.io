@@ -5,7 +5,7 @@ style: center
 anchor: '#7'
 status: publish
 published: true
-title: Do you fit the mould?
+title: "Do you fit the mould?"
 author:
   display_name: elbento
   login: admin
