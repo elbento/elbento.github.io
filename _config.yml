@@ -1,13 +1,38 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+---
 
-auto: true # automatically update your jekyll
-server: true # runs a local server
-paginate: 10 # pagination basted on number of posts
-exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+port: 4000
+host: 0.0.0.0
+safe: false
 
-##define this for disqus comment support
-disqus: elbento
 
-##set this to enable google analytics
-ga_id: UA-402774-5
-ga_domain: elbento.com
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+
+
+### content configuration ###
+title:       "elbento.com"
+keywords:    "blog, single page"
+description: "Thoughts and musings"
+source_link: "https://github.com/elbento/elbento.github.io"
+favicon:     "ico/favicon.ico"
+touch_icon:  "ico/apple-touch-icon-57-precomposed.png"
+google_analytics_key: UA-402774-5
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
+
