@@ -1,5 +1,7 @@
 ---
-layout: post
+bg: black
+color: white
+style: center
 status: publish
 published: true
 title: Cannot see the trees for the forest

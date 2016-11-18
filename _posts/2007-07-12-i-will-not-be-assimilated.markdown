@@ -1,5 +1,7 @@
 ---
-layout: post
+bg: white
+color: black
+style: center
 status: publish
 published: true
 title: I will not be assimilated

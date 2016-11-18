@@ -1,5 +1,7 @@
 ---
-layout: post
+bg: white
+color: black
+style: center
 status: publish
 published: true
 title: I'm Just Doing My Job

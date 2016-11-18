@@ -1,5 +1,7 @@
 ---
-layout: post
+bg: white
+color: black
+style: center
 status: publish
 published: true
 title: White label everything!
