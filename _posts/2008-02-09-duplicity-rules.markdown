@@ -2,6 +2,7 @@
 bg: black
 color: white
 style: center
+anchor: '#6'
 status: publish
 published: true
 title: Duplicity Rules

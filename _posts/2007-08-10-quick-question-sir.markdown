@@ -2,6 +2,7 @@
 bg: black
 color: white
 style: center
+anchor: '#4'
 status: publish
 published: true
 title: Quick question, Sir

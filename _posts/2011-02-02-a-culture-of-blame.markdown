@@ -2,6 +2,7 @@
 bg: black
 color: white
 style: center
+anchor: '#8'
 status: publish
 published: true
 title: A Culture Of Blame

@@ -2,6 +2,7 @@
 bg: white
 color: black
 style: center
+anchor: '#5'
 status: publish
 published: true
 title: How Do We Rate?

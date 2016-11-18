@@ -2,6 +2,7 @@
 bg: black
 color: white
 style: center
+anchor: '#10'
 status: publish
 published: true
 title: 20/20 Hindsight

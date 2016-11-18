@@ -2,6 +2,7 @@
 bg: black
 color: white
 style: center
+anchor: '#2'
 status: publish
 published: true
 title: Fine-a-thon

@@ -2,6 +2,7 @@
 bg: white
 color: black
 style: center
+anchor: '#3'
 status: publish
 published: true
 title: I'm Just Doing My Job

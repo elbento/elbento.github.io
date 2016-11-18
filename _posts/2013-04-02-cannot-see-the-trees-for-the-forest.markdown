@@ -2,6 +2,7 @@
 bg: black
 color: white
 style: center
+anchor: '#12'
 status: publish
 published: true
 title: Cannot see the trees for the forest

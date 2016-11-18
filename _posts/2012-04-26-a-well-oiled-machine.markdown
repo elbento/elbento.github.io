@@ -2,6 +2,7 @@
 bg: white
 color: black
 style: center
+anchor: '#9'
 status: publish
 published: true
 title: A Well-Oiled Machine
