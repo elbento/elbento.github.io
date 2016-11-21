@@ -1,6 +1,6 @@
 ---
-bg: black
-color: white
+bg: white
+color: black
 style: center
 anchor: '#2'
 status: publish
