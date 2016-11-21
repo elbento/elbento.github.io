@@ -1,5 +1,5 @@
 ---
-bg: black
+bg: purple
 color: white
 style: center
 anchor: '#8'
