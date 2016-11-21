@@ -1,5 +1,5 @@
 ---
-bg: black
+bg: turquoise
 color: white
 style: center
 anchor: '#6'
