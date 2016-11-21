@@ -1,6 +1,6 @@
 ---
 bg: orange
-color: green
+color: blue
 style: center
 anchor: '#5'
 status: publish
